@@ -5,7 +5,6 @@ counter = 0
 user_choice = 0
 
 def user_selection():
-    user_choice_local = 0
     global counter
     while True:
         print('1. Calculate values.')
